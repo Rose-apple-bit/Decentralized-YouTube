@@ -92,7 +92,7 @@ export default function VideoPage() {
             </div>
             <div className="w-2/6">
               <h4 className="text-md font-bold dark:text-white ml-5 mb-3 text-black">
-                Related Videos
+                🎬
               </h4>
               {relatedVideos.map((video) => (
                 <Link
